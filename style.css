@@ -1,0 +1,35 @@
+html {
+  position: relative;
+  min-height: 100%;
+  height: 100%;
+}
+
+.social-part .fa {
+  padding-right: 20px;
+}
+ul li a {
+  margin-right: 20px;
+}
+
+#main_title {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+#facebook_timeline {
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  margin-bottom: 75px;
+}
+
+#footer_base {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 75px;
+  background:rgb(233, 233, 233);
+}
