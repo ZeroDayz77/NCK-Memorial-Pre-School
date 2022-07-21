@@ -51,3 +51,7 @@ ul li a {
 #nav-link-logo {
   margin: 0px 10px 0px 0px;
 }
+
+ul li a:hover {
+  cursor: pointer;
+}
