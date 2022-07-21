@@ -6,6 +6,7 @@ html {
 
 .social-part .fa {
   padding-right: 20px;
+  color: #000;
 }
 ul li a {
   margin-right: 20px;
@@ -52,6 +53,6 @@ ul li a {
   margin: 0px 10px 0px 0px;
 }
 
-ul li a:hover {
+.nav-link:hover {
   cursor: pointer;
 }
