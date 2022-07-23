@@ -141,6 +141,6 @@ ul li a {
   left: 50%;
 }
 
- .navbar {
+ .container-fluid {
   justify-content: flex-end !important;
 }
